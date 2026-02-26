@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd14e9edb39896842a0a88aa51660a0a, type: 3}
+  m_Name: Sealed Passion
+  m_EditorClassIdentifier: 
+  MusicTitle: Sealed Passion
+  MusicArtist: Herun & Kusua
+  MusicAlbum: "\u70EC\u5E7B"
+  MusicCover: {fileID: 21300000, guid: fd31acb53447b1141ac6417915d66ed8, type: 3}
+  MusicClip: {fileID: 8300000, guid: 2bfd83b04303fa04a8b445ffa9c4d8a3, type: 3}
+  MusicExcerpt: {x: 104, y: 144}
+  BPM: 165
+  ChartInfos:
+  - {fileID: 11400000, guid: a0ea9f2b6e3360c47ab76611e63c4dd7, type: 2}
+  - {fileID: 11400000, guid: 533bc87ca672e5142870a7ae9e0842e0, type: 2}
+  - {fileID: 11400000, guid: e234fb65596dafc438df5c14fba72ed2, type: 2}

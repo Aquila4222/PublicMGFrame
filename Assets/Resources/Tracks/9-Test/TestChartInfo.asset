@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f8e60657a201ce4d8aa29df7e1e9ad9, type: 3}
+  m_Name: TestChartInfo
+  m_EditorClassIdentifier: 
+  ChartArtist: t
+  ChartDifficulty: 0
+  ChartDifficultyNumber: 0
+  ChartText: {fileID: 4900000, guid: 0987caacb3b01754d9ad2cc0e56c5610, type: 3}
+  ScoreSave: {fileID: 11400000, guid: 0ab39cab9acdd184a9eeb7de4890edcf, type: 2}
+  ChartContent: "1:0,t\r\n2:0,t\r\n3:0,t\r\n4:0,t\r\n\r\n5:0,\u2192\r\n5.1:1,\u2192\r\n5.2:2,\u2192\r\n5.3:3,\u2192\r\n\r\n6:3,\u2190\r\n6.1:2,\u2190\r\n6.2:1,\u2190\r\n6.3:0,\u2190\r\n\r\n\r\n\r\n7:0,\u2192\r\n7.1:1,\u2192\r\n7.2:3,\u2190\r\n7.3:2,\u2190\r\n\r\n\r\n\r\n8:0,t\r\n\r\n9.1:2,\u2190\r\n9.2:1,\u2192\r\n9.3:2,\u2190\r\n9.4:1,\u2192\r\n\r\n"
